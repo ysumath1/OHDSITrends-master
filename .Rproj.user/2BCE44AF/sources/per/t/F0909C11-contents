@@ -1,0 +1,2 @@
+library(magrittr)
+Central_Processing('/Users/yohan/Desktop/Test 09.20/904 Results', '/Users/yohan/Desktop/untitled folder')
